@@ -1,0 +1,6 @@
+uagents==0.22.3
+uagents-adapter==0.4.1
+langchain-openai==0.3.14
+langchain-community==0.3.21
+langgraph==0.3.31
+dotenv==0.9.9
